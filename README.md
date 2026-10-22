@@ -2,7 +2,10 @@
 
 基于 PHP 的服务器与网站监控系统，集成多协议探测、资源采集、公开状态页、历史趋势、告警通知和开放 API。后台使用 Light-Year Admin V5、Bootstrap 5 与 jQuery，支持 SQLite 和 MySQL。
 
-当前发布版本：**V0.1.0**。
+<img width="2656" height="1122" alt="image" src="https://github.com/user-attachments/assets/4ee5cdd6-c339-42e2-89e5-e16065e24d3e" />
+<img width="1912" height="1118" alt="7c686b9038f5ca83a3a4736720ee173e" src="https://github.com/user-attachments/assets/f0604ac2-cc62-46ad-b34d-145ec72f1733" />
+
+
 
 [下载安装包](https://github.com/hbyidc/-CatMonitor/releases/tag/v0.1.0) · [反馈问题](https://github.com/hbyidc/-CatMonitor/issues) · **交流群：1131620695**
 
